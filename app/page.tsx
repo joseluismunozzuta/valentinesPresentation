@@ -26,7 +26,7 @@ export default function Home() {
         <header className="relative w-full h-screen overflow-hidden">
 
           <img
-            src="bksun.jpg"
+            src="/bksun.jpg"
             alt="primeraCita"
             className="w-full h-full object-cover brightness-75" />
 
@@ -50,7 +50,7 @@ export default function Home() {
 
       <div id="valentine-section" className="relative flex flex-col h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
         <img
-          src="bk1.webp"
+          src="/bk1.webp"
           alt="asthetic"
           className="w-full h-full object-cover brightness-80 opacity-30 absolute" />
         <h1 className="heartbeat text-2xl m-10 text-center">De entre millones de personas en este mundo, eres la persona perfecta para celebrar el 14 de febrero. Eres tú❤️</h1>
@@ -65,7 +65,7 @@ export default function Home() {
 
       <div id="signals" className="flex h-screen flex-col items-start justify-evenly bg-gray-800 font-sans dark:bg-black relative">
         <img
-          src="bk2.jpg"
+          src="/bk2.jpg"
           alt="astheticbk"
           className="w-full h-full object-cover brightness-80 opacity-30 absolute" />
         <div className="heartbeat text-center text-black bg-gray-100 dark:bg-neutral-800 rounded-lg px-6 py-3 mx-16 my-2">
@@ -79,7 +79,7 @@ export default function Home() {
         <div className="heartbeat text-center text-black bg-cyan-300 dark:bg-neutral-800 rounded-xl px-3 py-3 mx-8 my-4 opacity-90">
           <h2 className="text-xl md:text-5xl font-bold mb-4 drop-shadow-lg">ENCIMA TE OFREZCO ESTOS CUPONES🤨</h2>
         </div>
-        <img src="tickets.png" alt="tickets" className="z-200 w-full mx-auto px-4 rounded-4xl" />
+        <img src="/tickets.png" alt="tickets" className="z-200 w-full mx-auto px-4 rounded-4xl" />
         <button className="z-100 bg-purple-300 mx-auto text-gray-900 px-6 py-3 rounded-lg font-semibold hover:bg-red-500 transition my-5"><a href="#final">Siguiente</a></button>
 
       </div>

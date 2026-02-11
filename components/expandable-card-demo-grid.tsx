@@ -192,7 +192,7 @@ const cards = [
   {
     description: "que me fascina...",
     title: "1. Tu sonrisa",
-    src: "m6.jpg",
+    src: "/m6.jpg",
     ctaText: "Visit",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
@@ -208,7 +208,7 @@ const cards = [
   {
     description: "y mi momento favorito de todos los días...💕",
     title: "2. Eres mi persona favorita",
-    src: "t8.jpg",
+    src: "/t8.jpg",
     ctaText: "Visit",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
@@ -226,7 +226,7 @@ const cards = [
   {
     description: "podría mirarte por horas y no me cansaría...😍",
     title: "3. Eres taaaan hermosa",
-    src: "m7.jpg",
+    src: "/m7.jpg",
     ctaText: "Visit",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
@@ -243,7 +243,7 @@ const cards = [
   {
     description: "¿hay duda de que somos el uno para el otro?❤️",
     title: "4. El destino nos unió",
-    src: "t6.jpg",
+    src: "/t6.jpg",
     ctaText: "Visit",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
