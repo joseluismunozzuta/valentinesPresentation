@@ -53,7 +53,7 @@ export default function Home() {
           src="/bk1.webp"
           alt="asthetic"
           className="w-full h-full object-cover brightness-80 opacity-30 absolute" />
-        <h1 className="heartbeat text-2xl mx-10 my-3 text-center">De entre millones de personas en este mundo, eres la persona perfecta para celebrar el 14 de febrero. Eres tú❤️</h1>
+        <h1 className="heartbeat text-xl mx-10 py-1 text-center">De entre millones de personas en este mundo, eres la persona perfecta para celebrar el 14 de febrero. Eres tú❤️</h1>
         <AnimatedTestimonialsDemo />
         <button className="z-100 bg-lime-400 text-gray-900 px-6 py-3 rounded-lg text-sm font-semibold hover:bg-lime-500"><a href="#reasons">Algunas razones para que seas mi San Valentín</a></button>
       </div>

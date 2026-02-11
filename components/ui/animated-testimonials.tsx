@@ -46,7 +46,7 @@ export const AnimatedTestimonials = ({
     <div className="mx-auto max-w-md px-10 py-2 font-sans antialiased md:max-w-5xl md:px-8 lg:px-12">
       <div className="relative grid grid-cols-1 gap-10 md:grid-cols-2">
         <div>
-          <div className="relative h-70 w-full">
+          <div className="relative h-76 w-full">
             <AnimatePresence>
               {testimonials.map((testimonial, index) => (
                 <motion.div
@@ -120,7 +120,7 @@ export const AnimatedTestimonials = ({
             </p>
             
           </motion.div>
-          <div className="flex justify-center gap-4 pt-12 md:pt-0">
+          <div className="flex justify-center gap-4 pt-4 md:pt-0">
             <button
               onClick={handlePrev}
               className="group/button flex h-7 w-7 items-center justify-center rounded-full bg-gray-100 dark:bg-neutral-800"
